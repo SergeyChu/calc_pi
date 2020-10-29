@@ -1,0 +1,3 @@
+rootProject.name = 'calc_pi_multithreading'
+include 'main'
+

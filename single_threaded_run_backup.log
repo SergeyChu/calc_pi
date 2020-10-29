@@ -1,0 +1,281 @@
+[INFO ] 2020-10-29 14:56:10.403 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 14:56:10.686 [main] MainLogger - Done with reading the file in: 2.705726E8 total lenght: 100001
+[INFO ] 2020-10-29 15:01:49.537 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 15:01:49.796 [main] MainLogger - Done with reading the file in: 2.528124E8 total lenght: 100001
+[INFO ] 2020-10-29 15:01:49.799 [main] MainLogger - Total processed iterations: 0 from 99999 time(ns): 2535200.0
+[INFO ] 2020-10-29 15:01:50.027 [main] MainLogger - Total processed iterations: 1000 from 99999 time(ns): 2.319316E8
+[INFO ] 2020-10-29 15:01:50.250 [main] MainLogger - Total processed iterations: 2000 from 99999 time(ns): 4.546931E8
+[INFO ] 2020-10-29 15:01:50.612 [main] MainLogger - Total processed iterations: 3000 from 99999 time(ns): 8.160269E8
+[INFO ] 2020-10-29 15:01:51.264 [main] MainLogger - Total processed iterations: 4000 from 99999 time(ns): 1.4674367E9
+[INFO ] 2020-10-29 15:01:51.940 [main] MainLogger - Total processed iterations: 5000 from 99999 time(ns): 2.1443146E9
+[INFO ] 2020-10-29 15:01:52.474 [main] MainLogger - Total processed iterations: 6000 from 99999 time(ns): 2.6779774E9
+[INFO ] 2020-10-29 15:01:53.255 [main] MainLogger - Total processed iterations: 7000 from 99999 time(ns): 3.4587717E9
+[INFO ] 2020-10-29 15:01:53.618 [main] MainLogger - Total processed iterations: 8000 from 99999 time(ns): 3.8223056E9
+[INFO ] 2020-10-29 15:01:54.246 [main] MainLogger - Total processed iterations: 9000 from 99999 time(ns): 4.4502489E9
+[INFO ] 2020-10-29 15:01:54.850 [main] MainLogger - Total processed iterations: 10000 from 99999 time(ns): 5.0532298E9
+[INFO ] 2020-10-29 15:01:55.551 [main] MainLogger - Total processed iterations: 11000 from 99999 time(ns): 5.7556012E9
+[INFO ] 2020-10-29 15:01:56.268 [main] MainLogger - Total processed iterations: 12000 from 99999 time(ns): 6.4718715E9
+[INFO ] 2020-10-29 15:01:57.063 [main] MainLogger - Total processed iterations: 13000 from 99999 time(ns): 7.2678469E9
+[INFO ] 2020-10-29 15:01:58.067 [main] MainLogger - Total processed iterations: 14000 from 99999 time(ns): 8.2703391E9
+[INFO ] 2020-10-29 15:01:59.053 [main] MainLogger - Total processed iterations: 15000 from 99999 time(ns): 9.2572792E9
+[INFO ] 2020-10-29 15:02:00.016 [main] MainLogger - Total processed iterations: 16000 from 99999 time(ns): 1.02204413E10
+[INFO ] 2020-10-29 15:02:01.256 [main] MainLogger - Total processed iterations: 17000 from 99999 time(ns): 1.14597761E10
+[INFO ] 2020-10-29 15:02:02.887 [main] MainLogger - Total processed iterations: 18000 from 99999 time(ns): 1.30910864E10
+[INFO ] 2020-10-29 15:02:04.619 [main] MainLogger - Total processed iterations: 19000 from 99999 time(ns): 1.48223678E10
+[INFO ] 2020-10-29 15:02:06.519 [main] MainLogger - Total processed iterations: 20000 from 99999 time(ns): 1.67227516E10
+[INFO ] 2020-10-29 15:02:08.608 [main] MainLogger - Total processed iterations: 21000 from 99999 time(ns): 1.88122815E10
+[INFO ] 2020-10-29 15:02:10.913 [main] MainLogger - Total processed iterations: 22000 from 99999 time(ns): 2.11165643E10
+[INFO ] 2020-10-29 15:02:13.139 [main] MainLogger - Total processed iterations: 23000 from 99999 time(ns): 2.33429875E10
+[INFO ] 2020-10-29 15:02:15.193 [main] MainLogger - Total processed iterations: 24000 from 99999 time(ns): 2.53974276E10
+[INFO ] 2020-10-29 15:02:17.265 [main] MainLogger - Total processed iterations: 25000 from 99999 time(ns): 2.7469652E10
+[INFO ] 2020-10-29 15:02:19.551 [main] MainLogger - Total processed iterations: 26000 from 99999 time(ns): 2.97549E10
+[INFO ] 2020-10-29 15:02:22.006 [main] MainLogger - Total processed iterations: 27000 from 99999 time(ns): 3.22096085E10
+[INFO ] 2020-10-29 15:02:24.559 [main] MainLogger - Total processed iterations: 28000 from 99999 time(ns): 3.47633034E10
+[INFO ] 2020-10-29 15:02:27.416 [main] MainLogger - Total processed iterations: 29000 from 99999 time(ns): 3.762083E10
+[INFO ] 2020-10-29 15:02:30.231 [main] MainLogger - Total processed iterations: 30000 from 99999 time(ns): 4.04348443E10
+[INFO ] 2020-10-29 15:02:33.150 [main] MainLogger - Total processed iterations: 31000 from 99999 time(ns): 4.33542377E10
+[INFO ] 2020-10-29 15:02:36.250 [main] MainLogger - Total processed iterations: 32000 from 99999 time(ns): 4.6454312E10
+[INFO ] 2020-10-29 15:02:38.681 [main] MainLogger - Total processed iterations: 33000 from 99999 time(ns): 4.88850652E10
+[INFO ] 2020-10-29 15:02:42.999 [main] MainLogger - Total processed iterations: 34000 from 99999 time(ns): 5.32024913E10
+[INFO ] 2020-10-29 15:02:47.702 [main] MainLogger - Total processed iterations: 35000 from 99999 time(ns): 5.79061605E10
+[INFO ] 2020-10-29 15:02:52.650 [main] MainLogger - Total processed iterations: 36000 from 99999 time(ns): 6.28536895E10
+[INFO ] 2020-10-29 15:02:58.036 [main] MainLogger - Total processed iterations: 37000 from 99999 time(ns): 6.82401053E10
+[INFO ] 2020-10-29 15:03:03.445 [main] MainLogger - Total processed iterations: 38000 from 99999 time(ns): 7.36486601E10
+[INFO ] 2020-10-29 15:03:08.655 [main] MainLogger - Total processed iterations: 39000 from 99999 time(ns): 7.8859188E10
+[INFO ] 2020-10-29 15:03:14.058 [main] MainLogger - Total processed iterations: 40000 from 99999 time(ns): 8.42613343E10
+[INFO ] 2020-10-29 15:03:19.664 [main] MainLogger - Total processed iterations: 41000 from 99999 time(ns): 8.98674153E10
+[INFO ] 2020-10-29 15:03:25.671 [main] MainLogger - Total processed iterations: 42000 from 99999 time(ns): 9.58755115E10
+[INFO ] 2020-10-29 15:03:31.892 [main] MainLogger - Total processed iterations: 43000 from 99999 time(ns): 1.020952148E11
+[INFO ] 2020-10-29 15:03:38.274 [main] MainLogger - Total processed iterations: 44000 from 99999 time(ns): 1.084775346E11
+[INFO ] 2020-10-29 15:03:44.603 [main] MainLogger - Total processed iterations: 45000 from 99999 time(ns): 1.14807417E11
+[INFO ] 2020-10-29 15:03:51.092 [main] MainLogger - Total processed iterations: 46000 from 99999 time(ns): 1.212961665E11
+[INFO ] 2020-10-29 15:03:57.661 [main] MainLogger - Total processed iterations: 47000 from 99999 time(ns): 1.27864773E11
+[INFO ] 2020-10-29 15:04:04.356 [main] MainLogger - Total processed iterations: 48000 from 99999 time(ns): 1.345601243E11
+[INFO ] 2020-10-29 15:04:10.488 [main] MainLogger - Total processed iterations: 49000 from 99999 time(ns): 1.406915075E11
+[INFO ] 2020-10-29 15:04:17.075 [main] MainLogger - Total processed iterations: 50000 from 99999 time(ns): 1.472788034E11
+[INFO ] 2020-10-29 15:04:23.940 [main] MainLogger - Total processed iterations: 51000 from 99999 time(ns): 1.541442462E11
+[INFO ] 2020-10-29 15:04:30.920 [main] MainLogger - Total processed iterations: 52000 from 99999 time(ns): 1.611243296E11
+[INFO ] 2020-10-29 15:04:38.017 [main] MainLogger - Total processed iterations: 53000 from 99999 time(ns): 1.682209767E11
+[INFO ] 2020-10-29 15:04:45.310 [main] MainLogger - Total processed iterations: 54000 from 99999 time(ns): 1.755140367E11
+[INFO ] 2020-10-29 15:04:52.928 [main] MainLogger - Total processed iterations: 55000 from 99999 time(ns): 1.831326908E11
+[INFO ] 2020-10-29 15:05:01.162 [main] MainLogger - Total processed iterations: 56000 from 99999 time(ns): 1.913654597E11
+[INFO ] 2020-10-29 15:05:09.277 [main] MainLogger - Total processed iterations: 57000 from 99999 time(ns): 1.994811387E11
+[INFO ] 2020-10-29 15:05:17.430 [main] MainLogger - Total processed iterations: 58000 from 99999 time(ns): 2.076338914E11
+[INFO ] 2020-10-29 15:05:25.790 [main] MainLogger - Total processed iterations: 59000 from 99999 time(ns): 2.159937631E11
+[INFO ] 2020-10-29 15:05:34.319 [main] MainLogger - Total processed iterations: 60000 from 99999 time(ns): 2.245223534E11
+[INFO ] 2020-10-29 15:05:43.007 [main] MainLogger - Total processed iterations: 61000 from 99999 time(ns): 2.332104714E11
+[INFO ] 2020-10-29 15:05:51.846 [main] MainLogger - Total processed iterations: 62000 from 99999 time(ns): 2.420493307E11
+[INFO ] 2020-10-29 15:06:00.893 [main] MainLogger - Total processed iterations: 63000 from 99999 time(ns): 2.510961065E11
+[INFO ] 2020-10-29 15:06:10.075 [main] MainLogger - Total processed iterations: 64000 from 99999 time(ns): 2.602794986E11
+[INFO ] 2020-10-29 15:06:17.752 [main] MainLogger - Total processed iterations: 65000 from 99999 time(ns): 2.67955664E11
+[INFO ] 2020-10-29 15:06:25.378 [main] MainLogger - Total processed iterations: 66000 from 99999 time(ns): 2.755819542E11
+[INFO ] 2020-10-29 15:06:36.497 [main] MainLogger - Total processed iterations: 67000 from 99999 time(ns): 2.867016441E11
+[INFO ] 2020-10-29 15:06:49.524 [main] MainLogger - Total processed iterations: 68000 from 99999 time(ns): 2.997272916E11
+[INFO ] 2020-10-29 15:07:02.837 [main] MainLogger - Total processed iterations: 69000 from 99999 time(ns): 3.130392101E11
+[INFO ] 2020-10-29 15:07:16.261 [main] MainLogger - Total processed iterations: 70000 from 99999 time(ns): 3.264646993E11
+[INFO ] 2020-10-29 15:07:30.632 [main] MainLogger - Total processed iterations: 71000 from 99999 time(ns): 3.408366226E11
+[INFO ] 2020-10-29 15:07:46.852 [main] MainLogger - Total processed iterations: 72000 from 99999 time(ns): 3.570556822E11
+[INFO ] 2020-10-29 15:08:02.332 [main] MainLogger - Total processed iterations: 73000 from 99999 time(ns): 3.725365601E11
+[INFO ] 2020-10-29 15:08:19.226 [main] MainLogger - Total processed iterations: 74000 from 99999 time(ns): 3.894293816E11
+[INFO ] 2020-10-29 15:08:35.442 [main] MainLogger - Total processed iterations: 75000 from 99999 time(ns): 4.056462603E11
+[INFO ] 2020-10-29 15:08:51.520 [main] MainLogger - Total processed iterations: 76000 from 99999 time(ns): 4.21723719E11
+[INFO ] 2020-10-29 15:09:06.981 [main] MainLogger - Total processed iterations: 77000 from 99999 time(ns): 4.371850402E11
+[INFO ] 2020-10-29 15:09:23.009 [main] MainLogger - Total processed iterations: 78000 from 99999 time(ns): 4.53213463E11
+[INFO ] 2020-10-29 15:09:38.022 [main] MainLogger - Total processed iterations: 79000 from 99999 time(ns): 4.682258392E11
+[INFO ] 2020-10-29 15:09:53.549 [main] MainLogger - Total processed iterations: 80000 from 99999 time(ns): 4.837525832E11
+[INFO ] 2020-10-29 15:10:09.847 [main] MainLogger - Total processed iterations: 81000 from 99999 time(ns): 5.000509307E11
+[INFO ] 2020-10-29 15:10:25.791 [main] MainLogger - Total processed iterations: 82000 from 99999 time(ns): 5.159948243E11
+[INFO ] 2020-10-29 15:10:42.338 [main] MainLogger - Total processed iterations: 83000 from 99999 time(ns): 5.325418511E11
+[INFO ] 2020-10-29 15:10:59.180 [main] MainLogger - Total processed iterations: 84000 from 99999 time(ns): 5.493837323E11
+[INFO ] 2020-10-29 15:11:17.846 [main] MainLogger - Total processed iterations: 85000 from 99999 time(ns): 5.680495176E11
+[INFO ] 2020-10-29 15:11:40.379 [main] MainLogger - Total processed iterations: 86000 from 99999 time(ns): 5.905825867E11
+[INFO ] 2020-10-29 15:11:59.128 [main] MainLogger - Total processed iterations: 87000 from 99999 time(ns): 6.093318879E11
+[INFO ] 2020-10-29 15:12:17.380 [main] MainLogger - Total processed iterations: 88000 from 99999 time(ns): 6.275835174E11
+[INFO ] 2020-10-29 15:12:36.738 [main] MainLogger - Total processed iterations: 89000 from 99999 time(ns): 6.469415623E11
+[INFO ] 2020-10-29 15:12:55.944 [main] MainLogger - Total processed iterations: 90000 from 99999 time(ns): 6.661476207E11
+[INFO ] 2020-10-29 15:13:15.228 [main] MainLogger - Total processed iterations: 91000 from 99999 time(ns): 6.854319579E11
+[INFO ] 2020-10-29 15:13:34.218 [main] MainLogger - Total processed iterations: 92000 from 99999 time(ns): 7.044214646E11
+[INFO ] 2020-10-29 15:13:53.827 [main] MainLogger - Total processed iterations: 93000 from 99999 time(ns): 7.240309175E11
+[INFO ] 2020-10-29 15:14:14.737 [main] MainLogger - Total processed iterations: 94000 from 99999 time(ns): 7.449409983E11
+[INFO ] 2020-10-29 15:14:34.445 [main] MainLogger - Total processed iterations: 95000 from 99999 time(ns): 7.646492233E11
+[INFO ] 2020-10-29 15:14:54.397 [main] MainLogger - Total processed iterations: 96000 from 99999 time(ns): 7.846006247E11
+[INFO ] 2020-10-29 15:15:15.576 [main] MainLogger - Total processed iterations: 97000 from 99999 time(ns): 8.057799374E11
+[INFO ] 2020-10-29 15:15:39.516 [main] MainLogger - Total processed iterations: 98000 from 99999 time(ns): 8.297197843E11
+[INFO ] 2020-10-29 15:16:00.008 [main] MainLogger - Total processed iterations: 99000 from 99999 time(ns): 8.502121745E11
+[INFO ] 2020-10-29 15:16:20.317 [main] MainLogger - -1
+[INFO ] 2020-10-29 15:23:01.706 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 15:23:01.944 [main] MainLogger - Done with reading the file in: 2.287754E8 total lenght: 100001
+[INFO ] 2020-10-29 15:23:02.144 [main] MainLogger - Total processed iterations: 0 from 99999 time: 1687100.0 numbers matched: 3
+[INFO ] 2020-10-29 15:23:02.464 [main] MainLogger - Total processed iterations: 1000 from 99999 time: 2.248993E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:02.788 [main] MainLogger - Total processed iterations: 2000 from 99999 time: 2.343898E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:03.134 [main] MainLogger - Total processed iterations: 3000 from 99999 time: 2.939966E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:03.456 [main] MainLogger - Total processed iterations: 4000 from 99999 time: 2.505311E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:03.933 [main] MainLogger - Total processed iterations: 5000 from 99999 time: 4.305978E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:04.624 [main] MainLogger - Total processed iterations: 6000 from 99999 time: 6.254545E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:05.073 [main] MainLogger - Total processed iterations: 7000 from 99999 time: 4.144234E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:05.442 [main] MainLogger - Total processed iterations: 8000 from 99999 time: 3.393916E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:06.411 [main] MainLogger - Total processed iterations: 9000 from 99999 time: 9.419734E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:07.072 [main] MainLogger - Total processed iterations: 10000 from 99999 time: 6.300362E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:07.843 [main] MainLogger - Total processed iterations: 11000 from 99999 time: 7.431083E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:08.631 [main] MainLogger - Total processed iterations: 12000 from 99999 time: 7.551874E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:09.485 [main] MainLogger - Total processed iterations: 13000 from 99999 time: 8.136545E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:10.565 [main] MainLogger - Total processed iterations: 14000 from 99999 time: 1.0347885E9 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:11.689 [main] MainLogger - Total processed iterations: 15000 from 99999 time: 1.0858042E9 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:12.566 [main] MainLogger - Total processed iterations: 16000 from 99999 time: 8.43545E8 numbers matched: 1002
+[INFO ] 2020-10-29 15:23:44.702 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 15:23:44.892 [main] MainLogger - Done with reading the file in: 1.848935E8 total lenght: 100001
+[INFO ] 2020-10-29 15:23:45.051 [main] MainLogger - Total processed iterations: 0 from 99999 time: 2.07105E7 numbers matched: 3
+[INFO ] 2020-10-29 15:23:47.261 [main] MainLogger - Total processed iterations: 1000 from 99999 time: 2.1536163E9 numbers matched: 1213
+[INFO ] 2020-10-29 15:23:48.735 [main] MainLogger - Total processed iterations: 2000 from 99999 time: 1.4294275E9 numbers matched: 2418
+[INFO ] 2020-10-29 15:23:50.125 [main] MainLogger - Total processed iterations: 3000 from 99999 time: 1.3524209E9 numbers matched: 3622
+[INFO ] 2020-10-29 15:23:51.647 [main] MainLogger - Total processed iterations: 4000 from 99999 time: 1.486475E9 numbers matched: 4827
+[INFO ] 2020-10-29 15:23:53.329 [main] MainLogger - Total processed iterations: 5000 from 99999 time: 1.644764E9 numbers matched: 6031
+[INFO ] 2020-10-29 15:23:55.094 [main] MainLogger - Total processed iterations: 6000 from 99999 time: 1.7324087E9 numbers matched: 7235
+[INFO ] 2020-10-29 15:23:56.682 [main] MainLogger - Total processed iterations: 7000 from 99999 time: 1.5546333E9 numbers matched: 8439
+[INFO ] 2020-10-29 15:23:58.582 [main] MainLogger - Total processed iterations: 8000 from 99999 time: 1.8653739E9 numbers matched: 9644
+[INFO ] 2020-10-29 15:24:01.009 [main] MainLogger - Total processed iterations: 9000 from 99999 time: 2.3920064E9 numbers matched: 10002
+[INFO ] 2020-10-29 15:24:03.566 [main] MainLogger - Total processed iterations: 10000 from 99999 time: 2.5200317E9 numbers matched: 10002
+[INFO ] 2020-10-29 15:24:06.247 [main] MainLogger - Total processed iterations: 11000 from 99999 time: 2.6450874E9 numbers matched: 10002
+[INFO ] 2020-10-29 15:24:42.268 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 15:24:42.466 [main] MainLogger - Done with reading the file in: 1.937346E8 total lenght: 100001
+[INFO ] 2020-10-29 15:24:42.938 [main] MainLogger - Total processed iterations: 0 from 99999 time: 1.545055E8 numbers matched: 3
+[INFO ] 2020-10-29 15:25:13.984 [main] MainLogger - Total processed iterations: 1000 from 99999 time: 3.09546864E10 numbers matched: 1213
+[INFO ] 2020-10-29 15:25:44.372 [main] MainLogger - Total processed iterations: 2000 from 99999 time: 3.03000231E10 numbers matched: 2418
+[INFO ] 2020-10-29 15:26:14.966 [main] MainLogger - Total processed iterations: 3000 from 99999 time: 3.04990395E10 numbers matched: 3622
+[INFO ] 2020-10-29 15:26:47.237 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 15:26:47.536 [main] MainLogger - Done with reading the file in: 2.934359E8 total lenght: 100001
+[INFO ] 2020-10-29 15:26:48.053 [main] MainLogger - Total processed iterations: 0 from 99999 time: 1.693726E8 numbers matched: 3
+[INFO ] 2020-10-29 15:27:17.700 [main] MainLogger - Total processed iterations: 1000 from 99999 time: 2.95621483E10 numbers matched: 1213
+[INFO ] 2020-10-29 15:27:46.932 [main] MainLogger - Total processed iterations: 2000 from 99999 time: 2.91462884E10 numbers matched: 2418
+[INFO ] 2020-10-29 15:28:16.087 [main] MainLogger - Total processed iterations: 3000 from 99999 time: 2.90715805E10 numbers matched: 3622
+[INFO ] 2020-10-29 15:28:46.125 [main] MainLogger - Total processed iterations: 4000 from 99999 time: 2.99358336E10 numbers matched: 4827
+[INFO ] 2020-10-29 15:29:19.148 [main] MainLogger - Total processed iterations: 5000 from 99999 time: 3.29335362E10 numbers matched: 6031
+[INFO ] 2020-10-29 15:29:47.541 [main] MainLogger - Total processed iterations: 6000 from 99999 time: 2.83093231E10 numbers matched: 7235
+[INFO ] 2020-10-29 15:30:15.797 [main] MainLogger - Total processed iterations: 7000 from 99999 time: 2.81737107E10 numbers matched: 8439
+[INFO ] 2020-10-29 15:30:43.871 [main] MainLogger - Total processed iterations: 8000 from 99999 time: 2.79872425E10 numbers matched: 9644
+[INFO ] 2020-10-29 15:31:12.018 [main] MainLogger - Total processed iterations: 9000 from 99999 time: 2.80502617E10 numbers matched: 10848
+[INFO ] 2020-10-29 15:31:40.689 [main] MainLogger - Total processed iterations: 10000 from 99999 time: 2.8580091E10 numbers matched: 12052
+[INFO ] 2020-10-29 15:32:11.006 [main] MainLogger - Total processed iterations: 11000 from 99999 time: 3.02274955E10 numbers matched: 13257
+[INFO ] 2020-10-29 15:32:40.293 [main] MainLogger - Total processed iterations: 12000 from 99999 time: 2.91407858E10 numbers matched: 14460
+[INFO ] 2020-10-29 15:33:09.966 [main] MainLogger - Total processed iterations: 13000 from 99999 time: 2.95756968E10 numbers matched: 15664
+[INFO ] 2020-10-29 15:33:39.378 [main] MainLogger - Total processed iterations: 14000 from 99999 time: 2.93180539E10 numbers matched: 16869
+[INFO ] 2020-10-29 15:34:09.102 [main] MainLogger - Total processed iterations: 15000 from 99999 time: 2.96283162E10 numbers matched: 18072
+[INFO ] 2020-10-29 15:34:38.279 [main] MainLogger - Total processed iterations: 16000 from 99999 time: 2.90777854E10 numbers matched: 19278
+[INFO ] 2020-10-29 15:34:43.630 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 15:34:43.858 [main] MainLogger - Done with reading the file in(ms): 219.0 total lenght: 100001
+[INFO ] 2020-10-29 15:34:44.559 [main] MainLogger - Total processed iterations: 0 from 99999 time: 0.29499998688697815 numbers matched: 3
+[INFO ] 2020-10-29 15:35:14.878 [main] MainLogger - Total processed iterations: 1000 from 99999 time: 30.211000442504883 numbers matched: 1213
+[INFO ] 2020-10-29 15:35:44.648 [main] MainLogger - Total processed iterations: 2000 from 99999 time: 29.683000564575195 numbers matched: 2418
+[INFO ] 2020-10-29 15:36:13.669 [main] MainLogger - Total processed iterations: 3000 from 99999 time: 28.93899917602539 numbers matched: 3622
+[INFO ] 2020-10-29 15:36:43.952 [main] MainLogger - Total processed iterations: 4000 from 99999 time: 30.198999404907227 numbers matched: 4827
+[INFO ] 2020-10-29 15:38:53.924 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 15:38:54.254 [main] MainLogger - Done with reading the file in(ms): 324.0 total lenght: 100001
+[INFO ] 2020-10-29 15:38:54.748 [main] MainLogger - Total processed iterations: 0 from 99999 time: 0.15700000524520874 time to calc diff: -336.0 numbers matched: 3
+[INFO ] 2020-10-29 15:39:24.995 [main] MainLogger - Total processed iterations: 1000 from 99999 time: 30.155000686645508 time to calc diff: -90.0 numbers matched: 1213
+[INFO ] 2020-10-29 15:39:36.070 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 15:39:36.256 [main] MainLogger - Done with reading the file in(ms): 181.0 total lenght: 100001
+[INFO ] 2020-10-29 15:39:36.678 [main] MainLogger - Total processed iterations: 0 from 99999 time: 0.1379999965429306 time to calc diff: 284.0 numbers matched: 3
+[INFO ] 2020-10-29 15:40:06.451 [main] MainLogger - Total processed iterations: 1000 from 99999 time: 29.687999725341797 time to calc diff: 84.0 numbers matched: 1213
+[INFO ] 2020-10-29 15:40:16.886 [main] MainLogger - Reading the file: src\main\resources\pi_100k.txt
+[INFO ] 2020-10-29 15:40:17.082 [main] MainLogger - Done with reading the file in(ms): 189.0 total lenght: 100001
+[INFO ] 2020-10-29 15:40:17.611 [main] MainLogger - Total processed iterations: 0 from 99999, time: 0.16500000655651093, time to calc diff: 363.0, numbers matched: 3
+[INFO ] 2020-10-29 15:40:52.105 [main] MainLogger - Total processed iterations: 1000 from 99999, time: 34.38600158691406, time to calc diff: 107.0, numbers matched: 1213
+[INFO ] 2020-10-29 15:41:23.723 [main] MainLogger - Total processed iterations: 2000 from 99999, time: 31.52899932861328, time to calc diff: 88.0, numbers matched: 2418
+[INFO ] 2020-10-29 15:41:53.762 [main] MainLogger - Total processed iterations: 3000 from 99999, time: 29.954999923706055, time to calc diff: 84.0, numbers matched: 3622
+[INFO ] 2020-10-29 15:42:22.516 [main] MainLogger - Total processed iterations: 4000 from 99999, time: 28.666000366210938, time to calc diff: 88.0, numbers matched: 4827
+[INFO ] 2020-10-29 15:42:51.896 [main] MainLogger - Total processed iterations: 5000 from 99999, time: 29.281999588012695, time to calc diff: 98.0, numbers matched: 6031
+[INFO ] 2020-10-29 15:43:21.013 [main] MainLogger - Total processed iterations: 6000 from 99999, time: 29.027999877929688, time to calc diff: 89.0, numbers matched: 7235
+[INFO ] 2020-10-29 15:43:50.599 [main] MainLogger - Total processed iterations: 7000 from 99999, time: 29.5, time to calc diff: 85.0, numbers matched: 8439
+[INFO ] 2020-10-29 15:44:19.282 [main] MainLogger - Total processed iterations: 8000 from 99999, time: 28.594999313354492, time to calc diff: 88.0, numbers matched: 9644
+[INFO ] 2020-10-29 15:44:47.912 [main] MainLogger - Total processed iterations: 9000 from 99999, time: 28.53700065612793, time to calc diff: 93.0, numbers matched: 10848
+[INFO ] 2020-10-29 15:45:17.706 [main] MainLogger - Total processed iterations: 10000 from 99999, time: 29.698999404907227, time to calc diff: 93.0, numbers matched: 12052
+[INFO ] 2020-10-29 15:45:46.681 [main] MainLogger - Total processed iterations: 11000 from 99999, time: 28.874000549316406, time to calc diff: 100.0, numbers matched: 13257
+[INFO ] 2020-10-29 15:46:17.103 [main] MainLogger - Total processed iterations: 12000 from 99999, time: 30.32900047302246, time to calc diff: 92.0, numbers matched: 14460
+[INFO ] 2020-10-29 15:46:45.551 [main] MainLogger - Total processed iterations: 13000 from 99999, time: 28.350000381469727, time to calc diff: 98.0, numbers matched: 15664
+[INFO ] 2020-10-29 15:47:13.926 [main] MainLogger - Total processed iterations: 14000 from 99999, time: 28.283000946044922, time to calc diff: 91.0, numbers matched: 16869
+[INFO ] 2020-10-29 15:47:44.475 [main] MainLogger - Total processed iterations: 15000 from 99999, time: 30.450000762939453, time to calc diff: 99.0, numbers matched: 18072
+[INFO ] 2020-10-29 15:48:15.892 [main] MainLogger - Total processed iterations: 16000 from 99999, time: 31.322999954223633, time to calc diff: 93.0, numbers matched: 19278
+[INFO ] 2020-10-29 15:48:45.208 [main] MainLogger - Total processed iterations: 17000 from 99999, time: 29.222000122070312, time to calc diff: 93.0, numbers matched: 20481
+[INFO ] 2020-10-29 15:49:15.097 [main] MainLogger - Total processed iterations: 18000 from 99999, time: 29.791000366210938, time to calc diff: 98.0, numbers matched: 21686
+[INFO ] 2020-10-29 15:49:45.117 [main] MainLogger - Total processed iterations: 19000 from 99999, time: 29.917999267578125, time to calc diff: 101.0, numbers matched: 22890
+[INFO ] 2020-10-29 15:50:16.532 [main] MainLogger - Total processed iterations: 20000 from 99999, time: 31.316999435424805, time to calc diff: 98.0, numbers matched: 24094
+[INFO ] 2020-10-29 15:50:45.580 [main] MainLogger - Total processed iterations: 21000 from 99999, time: 28.951000213623047, time to calc diff: 97.0, numbers matched: 25298
+[INFO ] 2020-10-29 15:51:15.279 [main] MainLogger - Total processed iterations: 22000 from 99999, time: 29.558000564575195, time to calc diff: 141.0, numbers matched: 26501
+[INFO ] 2020-10-29 15:51:45.615 [main] MainLogger - Total processed iterations: 23000 from 99999, time: 30.236000061035156, time to calc diff: 99.0, numbers matched: 27706
+[INFO ] 2020-10-29 15:52:16.738 [main] MainLogger - Total processed iterations: 24000 from 99999, time: 31.024999618530273, time to calc diff: 98.0, numbers matched: 28908
+[INFO ] 2020-10-29 15:52:47.014 [main] MainLogger - Total processed iterations: 25000 from 99999, time: 30.176000595092773, time to calc diff: 99.0, numbers matched: 30115
+[INFO ] 2020-10-29 15:53:15.557 [main] MainLogger - Total processed iterations: 26000 from 99999, time: 28.44499969482422, time to calc diff: 98.0, numbers matched: 31319
+[INFO ] 2020-10-29 15:53:46.495 [main] MainLogger - Total processed iterations: 27000 from 99999, time: 30.83099937438965, time to calc diff: 106.0, numbers matched: 32523
+[INFO ] 2020-10-29 15:54:24.179 [main] MainLogger - Total processed iterations: 28000 from 99999, time: 37.551998138427734, time to calc diff: 131.0, numbers matched: 33727
+[INFO ] 2020-10-29 15:54:52.527 [main] MainLogger - Total processed iterations: 29000 from 99999, time: 28.25, time to calc diff: 98.0, numbers matched: 34931
+[INFO ] 2020-10-29 15:55:21.126 [main] MainLogger - Total processed iterations: 30000 from 99999, time: 28.493000030517578, time to calc diff: 106.0, numbers matched: 36135
+[INFO ] 2020-10-29 15:55:49.856 [main] MainLogger - Total processed iterations: 31000 from 99999, time: 28.624000549316406, time to calc diff: 104.0, numbers matched: 37339
+[INFO ] 2020-10-29 15:56:17.786 [main] MainLogger - Total processed iterations: 32000 from 99999, time: 27.83300018310547, time to calc diff: 97.0, numbers matched: 38544
+[INFO ] 2020-10-29 15:56:44.973 [main] MainLogger - Total processed iterations: 33000 from 99999, time: 27.086999893188477, time to calc diff: 99.0, numbers matched: 39748
+[INFO ] 2020-10-29 15:57:12.535 [main] MainLogger - Total processed iterations: 34000 from 99999, time: 27.464000701904297, time to calc diff: 98.0, numbers matched: 40952
+[INFO ] 2020-10-29 15:57:40.049 [main] MainLogger - Total processed iterations: 35000 from 99999, time: 27.41200065612793, time to calc diff: 102.0, numbers matched: 42156
+[INFO ] 2020-10-29 15:58:07.280 [main] MainLogger - Total processed iterations: 36000 from 99999, time: 27.134000778198242, time to calc diff: 97.0, numbers matched: 43361
+[INFO ] 2020-10-29 15:58:34.827 [main] MainLogger - Total processed iterations: 37000 from 99999, time: 27.448999404907227, time to calc diff: 97.0, numbers matched: 44564
+[INFO ] 2020-10-29 15:59:02.583 [main] MainLogger - Total processed iterations: 38000 from 99999, time: 27.652999877929688, time to calc diff: 103.0, numbers matched: 45769
+[INFO ] 2020-10-29 15:59:29.920 [main] MainLogger - Total processed iterations: 39000 from 99999, time: 27.23699951171875, time to calc diff: 99.0, numbers matched: 46973
+[INFO ] 2020-10-29 15:59:59.674 [main] MainLogger - Total processed iterations: 40000 from 99999, time: 29.652999877929688, time to calc diff: 101.0, numbers matched: 48177
+[INFO ] 2020-10-29 16:00:28.687 [main] MainLogger - Total processed iterations: 41000 from 99999, time: 28.913000106811523, time to calc diff: 100.0, numbers matched: 49381
+[INFO ] 2020-10-29 16:00:56.729 [main] MainLogger - Total processed iterations: 42000 from 99999, time: 27.937999725341797, time to calc diff: 104.0, numbers matched: 50585
+[INFO ] 2020-10-29 16:01:24.169 [main] MainLogger - Total processed iterations: 43000 from 99999, time: 27.340999603271484, time to calc diff: 99.0, numbers matched: 51789
+[INFO ] 2020-10-29 16:01:52.602 [main] MainLogger - Total processed iterations: 44000 from 99999, time: 28.322999954223633, time to calc diff: 110.0, numbers matched: 52994
+[INFO ] 2020-10-29 16:02:20.407 [main] MainLogger - Total processed iterations: 45000 from 99999, time: 27.70599937438965, time to calc diff: 99.0, numbers matched: 54198
+[INFO ] 2020-10-29 16:02:48.271 [main] MainLogger - Total processed iterations: 46000 from 99999, time: 27.767000198364258, time to calc diff: 96.0, numbers matched: 55401
+[INFO ] 2020-10-29 16:03:17.066 [main] MainLogger - Total processed iterations: 47000 from 99999, time: 28.697999954223633, time to calc diff: 97.0, numbers matched: 56606
+[INFO ] 2020-10-29 16:03:43.861 [main] MainLogger - Total processed iterations: 48000 from 99999, time: 26.69300079345703, time to calc diff: 102.0, numbers matched: 57810
+[INFO ] 2020-10-29 16:04:10.831 [main] MainLogger - Total processed iterations: 49000 from 99999, time: 26.867000579833984, time to calc diff: 103.0, numbers matched: 59015
+[INFO ] 2020-10-29 16:04:37.857 [main] MainLogger - Total processed iterations: 50000 from 99999, time: 26.92300033569336, time to calc diff: 102.0, numbers matched: 60219
+[INFO ] 2020-10-29 16:05:06.814 [main] MainLogger - Total processed iterations: 51000 from 99999, time: 28.858999252319336, time to calc diff: 98.0, numbers matched: 61423
+[INFO ] 2020-10-29 16:05:36.965 [main] MainLogger - Total processed iterations: 52000 from 99999, time: 30.025999069213867, time to calc diff: 124.0, numbers matched: 62625
+[INFO ] 2020-10-29 16:06:07.102 [main] MainLogger - Total processed iterations: 53000 from 99999, time: 30.0310001373291, time to calc diff: 106.0, numbers matched: 63831
+[INFO ] 2020-10-29 16:06:34.061 [main] MainLogger - Total processed iterations: 54000 from 99999, time: 26.861000061035156, time to calc diff: 98.0, numbers matched: 65033
+[INFO ] 2020-10-29 16:07:01.678 [main] MainLogger - Total processed iterations: 55000 from 99999, time: 27.51799964904785, time to calc diff: 98.0, numbers matched: 66238
+[INFO ] 2020-10-29 16:07:28.032 [main] MainLogger - Total processed iterations: 56000 from 99999, time: 26.25200080871582, time to calc diff: 102.0, numbers matched: 67443
+[INFO ] 2020-10-29 16:07:53.894 [main] MainLogger - Total processed iterations: 57000 from 99999, time: 25.763999938964844, time to calc diff: 98.0, numbers matched: 68647
+[INFO ] 2020-10-29 16:08:20.567 [main] MainLogger - Total processed iterations: 58000 from 99999, time: 26.576000213623047, time to calc diff: 96.0, numbers matched: 69852
+[INFO ] 2020-10-29 16:08:48.295 [main] MainLogger - Total processed iterations: 59000 from 99999, time: 27.618000030517578, time to calc diff: 110.0, numbers matched: 71055
+[INFO ] 2020-10-29 16:09:14.110 [main] MainLogger - Total processed iterations: 60000 from 99999, time: 25.71500015258789, time to calc diff: 100.0, numbers matched: 72260
+[INFO ] 2020-10-29 16:09:40.170 [main] MainLogger - Total processed iterations: 61000 from 99999, time: 25.958999633789062, time to calc diff: 101.0, numbers matched: 73464
+[INFO ] 2020-10-29 16:10:08.911 [main] MainLogger - Total processed iterations: 62000 from 99999, time: 28.645000457763672, time to calc diff: 95.0, numbers matched: 74667
+[INFO ] 2020-10-29 16:10:36.441 [main] MainLogger - Total processed iterations: 63000 from 99999, time: 27.388999938964844, time to calc diff: 141.0, numbers matched: 75872
+[INFO ] 2020-10-29 16:11:03.763 [main] MainLogger - Total processed iterations: 64000 from 99999, time: 27.204999923706055, time to calc diff: 117.0, numbers matched: 77076
+[INFO ] 2020-10-29 16:11:29.886 [main] MainLogger - Total processed iterations: 65000 from 99999, time: 26.024999618530273, time to calc diff: 97.0, numbers matched: 78281
+[INFO ] 2020-10-29 16:11:55.023 [main] MainLogger - Total processed iterations: 66000 from 99999, time: 25.041000366210938, time to calc diff: 96.0, numbers matched: 79484
+[INFO ] 2020-10-29 16:12:19.982 [main] MainLogger - Total processed iterations: 67000 from 99999, time: 24.863000869750977, time to calc diff: 95.0, numbers matched: 80688
+[INFO ] 2020-10-29 16:12:45.176 [main] MainLogger - Total processed iterations: 68000 from 99999, time: 25.097000122070312, time to calc diff: 97.0, numbers matched: 81893
+[INFO ] 2020-10-29 16:13:10.089 [main] MainLogger - Total processed iterations: 69000 from 99999, time: 24.81599998474121, time to calc diff: 97.0, numbers matched: 83097
+[INFO ] 2020-10-29 16:13:34.392 [main] MainLogger - Total processed iterations: 70000 from 99999, time: 24.207000732421875, time to calc diff: 96.0, numbers matched: 84301
+[INFO ] 2020-10-29 16:13:58.920 [main] MainLogger - Total processed iterations: 71000 from 99999, time: 24.426000595092773, time to calc diff: 102.0, numbers matched: 85505
+[INFO ] 2020-10-29 16:14:26.225 [main] MainLogger - Total processed iterations: 72000 from 99999, time: 27.20800018310547, time to calc diff: 97.0, numbers matched: 86709
+[INFO ] 2020-10-29 16:14:52.215 [main] MainLogger - Total processed iterations: 73000 from 99999, time: 25.89299964904785, time to calc diff: 97.0, numbers matched: 87914
+[INFO ] 2020-10-29 16:15:17.469 [main] MainLogger - Total processed iterations: 74000 from 99999, time: 25.155000686645508, time to calc diff: 98.0, numbers matched: 89117
+[INFO ] 2020-10-29 16:15:43.236 [main] MainLogger - Total processed iterations: 75000 from 99999, time: 25.667999267578125, time to calc diff: 99.0, numbers matched: 90322
+[INFO ] 2020-10-29 16:16:08.617 [main] MainLogger - Total processed iterations: 76000 from 99999, time: 25.277999877929688, time to calc diff: 103.0, numbers matched: 91526
+[INFO ] 2020-10-29 16:16:33.434 [main] MainLogger - Total processed iterations: 77000 from 99999, time: 24.714000701904297, time to calc diff: 103.0, numbers matched: 92730
+[INFO ] 2020-10-29 16:16:57.406 [main] MainLogger - Total processed iterations: 78000 from 99999, time: 23.87700080871582, time to calc diff: 95.0, numbers matched: 93934
+[INFO ] 2020-10-29 16:17:21.147 [main] MainLogger - Total processed iterations: 79000 from 99999, time: 23.64299964904785, time to calc diff: 97.0, numbers matched: 95137
+[INFO ] 2020-10-29 16:17:44.614 [main] MainLogger - Total processed iterations: 80000 from 99999, time: 23.371000289916992, time to calc diff: 96.0, numbers matched: 96341
+[INFO ] 2020-10-29 16:18:08.344 [main] MainLogger - Total processed iterations: 81000 from 99999, time: 23.631999969482422, time to calc diff: 97.0, numbers matched: 97547
+[INFO ] 2020-10-29 16:18:31.093 [main] MainLogger - Total processed iterations: 82000 from 99999, time: 22.64900016784668, time to calc diff: 100.0, numbers matched: 98751
+[INFO ] 2020-10-29 16:18:51.669 [main] MainLogger - Total processed iterations: 83000 from 99999, time: 20.479999542236328, time to calc diff: 96.0, numbers matched: 99955
+[INFO ] 2020-10-29 16:19:11.911 [main] MainLogger - Total processed iterations: 84000 from 99999, time: 20.09600067138672, time to calc diff: 146.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:19:31.682 [main] MainLogger - Total processed iterations: 85000 from 99999, time: 19.667999267578125, time to calc diff: 103.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:19:51.806 [main] MainLogger - Total processed iterations: 86000 from 99999, time: 20.025999069213867, time to calc diff: 98.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:20:11.348 [main] MainLogger - Total processed iterations: 87000 from 99999, time: 19.41200065612793, time to calc diff: 129.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:20:32.084 [main] MainLogger - Total processed iterations: 88000 from 99999, time: 20.636999130249023, time to calc diff: 99.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:20:56.689 [main] MainLogger - Total processed iterations: 89000 from 99999, time: 24.503999710083008, time to calc diff: 101.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:21:16.450 [main] MainLogger - Total processed iterations: 90000 from 99999, time: 19.656999588012695, time to calc diff: 104.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:21:35.927 [main] MainLogger - Total processed iterations: 91000 from 99999, time: 19.3799991607666, time to calc diff: 96.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:21:57.806 [main] MainLogger - Total processed iterations: 92000 from 99999, time: 21.74799919128418, time to calc diff: 131.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:22:17.692 [main] MainLogger - Total processed iterations: 93000 from 99999, time: 19.788000106811523, time to calc diff: 97.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:22:37.754 [main] MainLogger - Total processed iterations: 94000 from 99999, time: 19.96500015258789, time to calc diff: 97.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:22:57.057 [main] MainLogger - Total processed iterations: 95000 from 99999, time: 19.20400047302246, time to calc diff: 99.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:23:16.035 [main] MainLogger - Total processed iterations: 96000 from 99999, time: 18.878999710083008, time to calc diff: 98.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:23:36.462 [main] MainLogger - Total processed iterations: 97000 from 99999, time: 20.329999923706055, time to calc diff: 97.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:23:56.652 [main] MainLogger - Total processed iterations: 98000 from 99999, time: 20.083999633789062, time to calc diff: 105.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:24:16.653 [main] MainLogger - Total processed iterations: 99000 from 99999, time: 19.871000289916992, time to calc diff: 128.0, numbers matched: 100001
+[INFO ] 2020-10-29 16:24:35.362 [main] MainLogger - 0
