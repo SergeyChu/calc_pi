@@ -9,23 +9,23 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 public class CalcThread implements Runnable {
 
-    volatile AtomicInteger mIterationNum;
-    volatile int mDecimalPlacesRead;
-    volatile AtomicReference<BigDecimal> mResult;
-    volatile BigDecimal mEtalonToCompare;
-    Logger lg;
+    private final AtomicInteger mIterationNum;
+    private final int mDecimalPlacesRead;
+    private final AtomicReference<BigDecimal> mResult;
+    private final BigDecimal mEtalonToCompare;
+    private final ReadWriteLock mLock;
+    private final Logger lg;
 
-    CalcThread(AtomicInteger pIterationNum, int pDecimalPlacesRead, AtomicReference<BigDecimal> pResult, BigDecimal pEtalonToCompare) {
+    CalcThread(AtomicInteger pIterationNum, int pDecimalPlacesRead, AtomicReference<BigDecimal> pResult, BigDecimal pEtalonToCompare, ReadWriteLock pLock) {
         mIterationNum = pIterationNum;
         mDecimalPlacesRead = pDecimalPlacesRead;
         mResult = pResult;
         mEtalonToCompare  = pEtalonToCompare;
         lg = MainLogger.getInstance();
+        mLock = pLock;
     }
 
     public void run() {
-
-        ReadWriteLock tLock = new ReentrantReadWriteLock();
 
         BigDecimal t16Bd = new BigDecimal("16");
         BigDecimal t1Bd = new BigDecimal("1");
@@ -39,12 +39,12 @@ public class CalcThread implements Runnable {
 
         for (int i = 0; i < mDecimalPlacesRead; i++) {
 
-            tLock.writeLock().lock();
+            long start_time_single_it = System.currentTimeMillis();
             //Getting value by reference to local variable and moving counter,
             // so next thread can start working on different iteration.
             int tLocalIterationNum = mIterationNum.getAndIncrement();
-            tLock.writeLock().unlock();
-            lg.debug(Thread.currentThread().getName() + " Got local iteration num: " + tLocalIterationNum);
+
+            lg.trace(Thread.currentThread().getName() + " Got local iteration num: " + tLocalIterationNum);
 
             BigDecimal t16PowBd = t16Bd.pow(tLocalIterationNum);
 
@@ -68,9 +68,13 @@ public class CalcThread implements Runnable {
 
             BigDecimal tFinalResultBd = tFirstMult.multiply(tSubResultsSubtractedBd);
 
-            synchronized (CalcThread.class) {
-                mResult.set(mResult.get().add(tFinalResultBd));
-            }
+            mLock.writeLock().lock();
+            mResult.set(mResult.get().add(tFinalResultBd));
+            mLock.writeLock().unlock();
+
+            long end_time_single_it = System.currentTimeMillis();
+            double diffItTime = (end_time_single_it - start_time_single_it);
+            lg.trace("Time of a single iteration: " + diffItTime);
 
             if (i % 100 == 0) {
                 long end_time = System.currentTimeMillis();
